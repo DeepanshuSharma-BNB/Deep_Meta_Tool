@@ -8,13 +8,13 @@ methods for the calculation of Mean and Standard Deviation (SD) from the Median
 and Interquartile range (IQR) data, which is essential to conduct a meta-analysis.
 The included two methods for calculations are –
 
-* 1. Hozo et al., 2005
+#### 1. Hozo et al., 2005
 
 S.P. Hozo, B. Djulbegovic, I. Hozo, Estimating the mean and variance from the median, range,
 and the size of a sample, BMC Medical Research Methodology. 5 (2005) 13.
 https://doi.org/10.1186/1471-2288-5-13.
 
-* 2. Bland, 2015
+#### 2. Bland, 2015
 
 M. Bland, Estimating Mean and Standard Deviation from the Sample Size, Three Quartiles,
 Minimum, and Maximum, International Journal of Statistics in Medical Research. 4 (2015) 57–
@@ -22,6 +22,7 @@ Minimum, and Maximum, International Journal of Statistics in Medical Research. 4
 
 
 ![main_screen](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/main_screen.png)
+
 Figure 1. Deep Meta Tool Version 1.0 main screen.
 
 ### PROCUDURE
