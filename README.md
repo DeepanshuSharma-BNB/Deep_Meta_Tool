@@ -120,9 +120,9 @@ The next subsection “Cite this software”
 
 #### Metadata
 
-*Table 4. Software metadata.
+*Table 4. Software metadata.*
 * Current software version: 1.0
 * Permanent link to executables of this version: https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool
 * Installation requirements & dependencies: Turn off Windows firewall/antivirus software or provide admin access to Deep Meta Tool Version 1.0.exe while installation
 * If available Link to user manual - if formally published include a reference to the publication in the reference list: https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool
-* Support email for questions: deepanshu.bnb@gmail.com
+* Support email for questions: https://deepanshu-sharma.wixsite.com/deepanshusharma
