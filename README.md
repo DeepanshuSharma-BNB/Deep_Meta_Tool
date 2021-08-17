@@ -34,17 +34,17 @@ After you download and extract the tool, you will get the following files at the
 
 ![folder_screen](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/folder_image.png)
 
-*Figure 2. Folder generated after Deep Meta Tool Version 1.0 software installation.
+*Figure 2. Folder generated after Deep Meta Tool Version 1.0 software installation.*
 
 ![user_manual](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/user_manual_option.png)
 
-*Figure 3. The User Manual.pdf can also be accessed from the help section.
+*Figure 3. The User Manual.pdf can also be accessed from the help section.*
 
 #### 1. Hozo et al., 2005 method
 
 DATA FORMAT - Median(IQR)
 
-*Example – 4.7 (3.6-5.8) → 4.7 is mean and 3.6 to 5.8 is the inter quartile range (IQR).
+*Example – 4.7 (3.6-5.8) → 4.7 is mean and 3.6 to 5.8 is the inter quartile range (IQR).*
 
 The process to obtain accurate results are as follows –
 1. Sample Size: If sample exceed 25, then median itself is the best estimator.
@@ -59,7 +59,7 @@ The process to obtain accurate results are as follows –
 
 ![hozo_window](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/hozo_window.png)
 
-*Figure 4. Process to calculate Mean and SD by Hozo et al., 2005 method.
+*Figure 4. Process to calculate Mean and SD by Hozo et al., 2005 method.*
 
 #### NOTE:
 * Three values of SD are calculated, use the appropriate value as per your sample size.
@@ -82,7 +82,7 @@ The process to obtain accurate results are as follows –
 
 ![output_files](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/output_files.png)
 
-*Figure 5. Output files are generated in the folder “Deep Meta Tool Version 1.0”.
+*Figure 5. Output files are generated in the folder “Deep Meta Tool Version 1.0”.*
 
 4. Sample Size: More accurate for bigger sample size.
 5. Data range (minimum): Put the lower value of data range.
@@ -104,19 +104,19 @@ The process to obtain accurate results are as follows –
 
 ![cite_options](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/cite_option.png)
 
-*Figure 6. About section have two subsections - About author and Cite this software.
+*Figure 6. About section have two subsections - About author and Cite this software.*
 
 The “About author” section will output a window with QR code to access the author’s website for contact, report a bug or feedback.
 
 ![qr_code](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/contact_info.png)
 
-*Figure 7. About author window with the QR code.
+*Figure 7. About author window with the QR code.*
 
 The next subsection “Cite this software”
 
 ![cite_info](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/cite_info.png)
 
-*Figure 8. Cite this software section will give Reference message to cite this software in your manuscript.
+*Figure 8. Cite this software section will give Reference message to cite this software in your manuscript.*
 
 #### Metadata
 
