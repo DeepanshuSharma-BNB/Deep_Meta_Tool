@@ -18,7 +18,7 @@ M. Bland, Estimating Mean and Standard Deviation from the Sample Size, Three Qua
 
 ![main_screen](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/main_screen.png)
 
-*Figure 1. Deep Meta Tool Version 1.0 main screen.
+*Figure 1. Deep Meta Tool Version 1.0 main screen.*
 
 ### PROCUDURE
 After you download and extract the tool, you will get the following files at the installation directory –
