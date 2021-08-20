@@ -1,6 +1,8 @@
 # Deep Meta Tool version 1.0
 Deep Meta Tool: GUI tool to obtain Mean and Standard Deviation (SD) from Median and Interquartile range (IQR)
 
+Manuscript available at DOI: https://doi.org/10.21203/rs.3.rs-828102/v1
+
 ![DMT_Logo](https://github.com/DeepanshuSharma-BNB/Deep_Meta_Tool/blob/main/deep_meta_tool.png)
 
 The software provides fast, user friendly and combined of two different statistical methods for the calculation of Mean and Standard Deviation (SD) from the Median and Interquartile range (IQR) data, which is essential to conduct a meta-analysis.
